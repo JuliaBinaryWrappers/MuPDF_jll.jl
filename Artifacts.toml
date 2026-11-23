@@ -1,0 +1,160 @@
+[[MuPDF]]
+arch = "aarch64"
+git-tree-sha1 = "9a6d9db31638aeda3c19e50c0ea8f706f8d3cca6"
+os = "macos"
+
+    [[MuPDF.download]]
+    sha256 = "f2f8a3d29667c6b6424005fea1508d07395f60d04400b7207c81a9086d11cbb8"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.aarch64-apple-darwin.tar.gz"
+[[MuPDF]]
+arch = "aarch64"
+git-tree-sha1 = "ed0ea947c6a34684db3f4949c7d48a47f7658b24"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "a8f0d7b5d28c10914cbda02577a0b083de03d216e839ba566b89e41a041a2268"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.aarch64-linux-gnu.tar.gz"
+[[MuPDF]]
+arch = "aarch64"
+git-tree-sha1 = "633d5c63149c7371e95f329e8ad83dc88d1992c5"
+libc = "musl"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "d439822782a74859598305eb1bfcb798833d2d7e09ecdb1e0dcfb47b5f305c92"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.aarch64-linux-musl.tar.gz"
+[[MuPDF]]
+arch = "aarch64"
+git-tree-sha1 = "30a90f51293cb27290908c76fa8a432bbdaa7bf0"
+os = "freebsd"
+
+    [[MuPDF.download]]
+    sha256 = "b97d907fcbd1a9d452ebd89e28dd729ef4f213c6794104103ab23f141ebae2fe"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.aarch64-unknown-freebsd.tar.gz"
+[[MuPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c51b5c2ed6b26bb9c453709f526094754663860"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "97c363311c1fad7e7ca252633c6c05aa17000dcc637015b532226afc9b2b4a72"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.armv6l-linux-gnueabihf.tar.gz"
+[[MuPDF]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "46f8c51adda6b05b5c80c17e9cc0a60ad3bde84e"
+libc = "musl"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "8fc4b538e1d3e121c6be3d807f39fea5dc7e5fc2f5b9e8d32fe9f925bb56e1b7"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.armv6l-linux-musleabihf.tar.gz"
+[[MuPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d31d572b350c1ee68a5a80f1c386e49b4b72fb42"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "fbbec26ff7fc8d75d18cc8b237d7c9dbbcbaffa24ff561613e24f5c807279070"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.armv7l-linux-gnueabihf.tar.gz"
+[[MuPDF]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c621e84ab6a915a435879657651394e3470662cd"
+libc = "musl"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "f81bfbb2b6e28eae4898afd0228de28fc542dc3a30e1b5d612517cf2a2860c54"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.armv7l-linux-musleabihf.tar.gz"
+[[MuPDF]]
+arch = "i686"
+git-tree-sha1 = "c6c953121a9cb7f2efe9ccec6eb1eaf8f95962b8"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "e1b2177196c20275496f52fa7b5f6e085bfdb4da527a696fcae80fe604c1fa7f"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.i686-linux-gnu.tar.gz"
+[[MuPDF]]
+arch = "i686"
+git-tree-sha1 = "e82defb23718d34dadfd8891ef4d96ca3537a78a"
+libc = "musl"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "bed5bfcb864ce8d539fa6360d30fc75dd194ab94e8ca5096fde30de03cbb816f"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.i686-linux-musl.tar.gz"
+[[MuPDF]]
+arch = "i686"
+git-tree-sha1 = "5613af4eb8e4762e7b683a18730cb1eb61c2acce"
+os = "windows"
+
+    [[MuPDF.download]]
+    sha256 = "c0469f773b78869088dad885981445baa2cf6add91f442c43fbb4398a60e8904"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.i686-w64-mingw32.tar.gz"
+[[MuPDF]]
+arch = "powerpc64le"
+git-tree-sha1 = "8816be0a8fa787dfe2b751c763404845b23e7d0c"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "cd41a21dfd8bfcbbdd01179b67ac04ca4b010400439cc673dec3426e59adaaf3"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.powerpc64le-linux-gnu.tar.gz"
+[[MuPDF]]
+arch = "riscv64"
+git-tree-sha1 = "4a0771f818f9e1e94459189e2b20e918b31653a7"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "ec52c973f2d37f7d588605792158e3e08825bc5c1fa037abcf34e7276edb6c95"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.riscv64-linux-gnu.tar.gz"
+[[MuPDF]]
+arch = "x86_64"
+git-tree-sha1 = "c8a3f04504e6b740c8f78cb3152e6d1f48e82a24"
+os = "macos"
+
+    [[MuPDF.download]]
+    sha256 = "977d087adbf39f75a386e266a01f5972eb2baffb9283278577d35ebc84da34e4"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.x86_64-apple-darwin.tar.gz"
+[[MuPDF]]
+arch = "x86_64"
+git-tree-sha1 = "3fe2c9826db5d8b400a65b42163c9ea22e849a4f"
+libc = "glibc"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "4fa6d7a73fb9836160c2394888c9b65c642593bdc015d1398da7cbcb4a0e74e3"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.x86_64-linux-gnu.tar.gz"
+[[MuPDF]]
+arch = "x86_64"
+git-tree-sha1 = "ba0861ead4d257f598c7976d18568fccd127021d"
+libc = "musl"
+os = "linux"
+
+    [[MuPDF.download]]
+    sha256 = "14fb8f7f20690e6bb918be348efa86aa8241c7b21ec55c17193e81d661e48b62"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.x86_64-linux-musl.tar.gz"
+[[MuPDF]]
+arch = "x86_64"
+git-tree-sha1 = "b1df82e24e2571c5c9fdeaa847679b1664f4b826"
+os = "freebsd"
+
+    [[MuPDF.download]]
+    sha256 = "50a1e88fc69dd0ec72607dfbbe277570330d2d6b08414fd516747321289ab83c"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.x86_64-unknown-freebsd.tar.gz"
+[[MuPDF]]
+arch = "x86_64"
+git-tree-sha1 = "1606532fa1542b5a841b435cf7f2a76a229017cd"
+os = "windows"
+
+    [[MuPDF.download]]
+    sha256 = "eba449896114a7b9e4aae87e44a1a7801297f90b088994fc03912f2509d16eea"
+    url = "https://github.com/JuliaBinaryWrappers/MuPDF_jll.jl/releases/download/MuPDF-v1.28.6+0/MuPDF.v1.28.6.x86_64-w64-mingw32.tar.gz"
